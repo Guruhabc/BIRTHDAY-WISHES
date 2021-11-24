@@ -1,0 +1,15 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+    border-color: darkviolet;
+    background-image: 'http://t2.gstatic.com/images?q=tbn:ANd9GcRKsMhN6iAMTPEs_QFlTDpNt0gHdFhntHs9PjA16lVZjWyA2BDq';
+}
+
